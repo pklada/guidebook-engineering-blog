@@ -16,11 +16,9 @@ authors:
 
 
 tags:
-  - framer
-  - prototype
-  - something
-  - something2
-  - something3
+  - postgres
+  - h-store
+  - l18n
 ---
 ### The Challenge
 
