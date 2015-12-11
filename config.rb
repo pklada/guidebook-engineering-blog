@@ -5,7 +5,7 @@ add_import_path "bower_components/"
 
 # Set this to the root of your project when deployed:
 http_path = "/"
-css_dir = "_css"
+css_dir = "css"
 sass_dir = "_sass"
 images_dir = "images"
 javascripts_dir = "javascripts"
